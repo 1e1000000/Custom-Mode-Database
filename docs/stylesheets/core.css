@@ -1,0 +1,12 @@
+@font-face {
+    font-family: ClearSans;
+    src: url('fonts/ClearSans-Regular.ttf');
+}
+
+* {
+  font-family: ClearSans, 'Helvetica', 'Arial', sans-serif;
+}
+
+.pre-formatted {
+    white-space: pre-wrap;
+}

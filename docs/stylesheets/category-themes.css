@@ -1,0 +1,13 @@
+.category-theme-default {
+    border-color: var(--color-default);
+    color: var(--color-default);
+}
+
+.category-theme-default-background {
+    background-color: var(--color-default-background);
+}
+
+.category-theme-default.is-active {
+    background-color: var(--color-default);
+    color: var(--background);
+}
