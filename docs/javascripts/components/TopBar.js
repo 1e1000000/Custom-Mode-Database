@@ -12,7 +12,7 @@ Vue.component("top-bar", {
             <span class="version">{{version}}</span>
             <span class="link">
                  | <a target="_blank" href="changelog.html" class="link">Changelog</a>
-                 | <a target="_blank" href="https://github.com/david-loves-etoh/RBNR-Save-Bank/" class="link">Github</a>
+                 | <a target="_blank" href="https://github.com/1e1000000/2048-Power-Compendium-Custom-Mode-Database/" class="link">Github</a>
             </span>
         </div>
     </header>
