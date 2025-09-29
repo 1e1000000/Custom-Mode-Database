@@ -33,6 +33,10 @@ Vue.component("settings-tab", {
                 Download All Saves
             </button>
         </div>
+        This is 2048 Power Compendium Custom Mode Database. The reason of the existence is primarily because MathCookie's custom mode example is a literal mess, with hundred of modes being placed without any ordering, 
+        and sometimes it being outdated (Latest Update: September 28 or 29, 2025), therefore there is the Database which contain every single modes (including horrible modes) ever created and posted in MathCookie's discord server, 
+        with modes being up-to-date whenever possible, which is also easier to use because you can just press 'Copy to Clipboard' in mobile device rather than hold the Save Code in Examples, and is being categorised into 
+        8 different categories which depends on the sequence of the tiles/numbers, merge rules, and so on.
 
     </div>
     `
