@@ -11,7 +11,7 @@ new Vue({
         },
         currentTab: "",
         sortMode: 0,
-        version: "251112a"
+        version: "251122a"
     },
     computed: {
         tabs() {
